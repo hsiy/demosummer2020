@@ -1,7 +1,7 @@
 
 class MainApp {
 	public static void main(String args[]) {
-		MyClass mc = new MyClass();
+		MyClass mc = new MyClass("Bob");
 	}
 }
 
